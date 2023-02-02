@@ -48,7 +48,7 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [Email](https://ist.mit.edu/email?category=7)
 * [Email Lists (Moira and Mailman)](https://ist.mit.edu/email-lists?category=7)
 * [GitHub Enterprise](https://ist.mit.edu/github-enterprise?category=7)
-* [Google Workspaces for Education (formerly G Suite)](https://ist.mit.edu/g-suite?category=7)
+* [Google Workspace for Education (formerly G Suite)](https://ist.mit.edu/g-suite?category=7)
 * [Microsoft Office 365](https://ist.mit.edu/office365-service?category=7)
 * [Slack Enterprise Grid](https://ist.mit.edu/slack?category=7)
 * [Spam Filtering](https://ist.mit.edu/spam?category=7)
@@ -74,11 +74,12 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 
 #### [End-User Support Tools](https://ist.mit.edu/endpoint)
 
+* [iOS / iPadOS Device Management with Jamf Pro](https://ist.mit.edu/ios-device-management?category=101)
+* [Issue Tracking](https://ist.mit.edu/issue-tracking?category=101)
 * [Mac 3rd Party Automated Software Patching](https://ist.mit.edu/3rd-party-mac?category=101)
 * [Mac Device Management with Jamf Pro](https://ist.mit.edu/mac-device-management?category=101)
 * [Mac Imaging](https://ist.mit.edu/imaging/mac?category=101)
 * [Profile Migration](https://ist.mit.edu/profile_migration?category=101)
-* [Request Tracker (RT)](https://ist.mit.edu/rt?category=101)
 * [Secure Remote Support](https://ist.mit.edu/remote-support?category=101)
 * [Windows 3rd Party Automated Software Patching](https://ist.mit.edu/3rd-party-win?category=101)
 * [Windows Device Management with MECM (formerly SCCM)](https://ist.mit.edu/windows-device-management?category=101)
@@ -198,7 +199,7 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 
 #### [Backup](https://ist.mit.edu/software-hardware?type=18)
 
-* [Code42 CrashPlan](https://ist.mit.edu/code42/all)
+* [CrashPlan (Code42)](https://ist.mit.edu/code42/all)
 * [User Profile Wizard](https://ist.mit.edu/migration/user-profile-wizard)
 * [Spectrum Protect (formerly TSM)](https://ist.mit.edu/spectrum/all)
 
@@ -325,7 +326,7 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 #### [Scientific](https://ist.mit.edu/software-hardware?type=37)
 
 * [Cambridge Structural Database](https://ist.mit.edu/cambridge-structural-database/all)
-* [ChemOffice+ Cloud & ChemDraw](https://ist.mit.edu/chemdraw/chemofficeplus)
+* [ChemOffice+ Cloud and ChemDraw](https://ist.mit.edu/chemdraw/chemofficeplus)
 * [ESRI (ArcGIS) License](https://ist.mit.edu/arcgis/license)
 * [fe-safe](https://ist.mit.edu/fe-safe/all)
 * [Isight and the SIMULIA Execution Engine](https://ist.mit.edu/isight/all)
@@ -413,6 +414,8 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 	* Hydrant is a class planner for MIT students.
 * [Mastodon](https://mastodon.mit.edu)
 	* https://mastodon.mit.edu is an instance of the Mastodon federated social networking platform, a part of a Twitter-like communications network of independently-run servers. Anyone on any individual server can communicate with the global ecosystem of federated servers, creating a decentralized social network where no one person or corporation has control of everyoneâs data.
+* MIT Matrix
+	* MIT Matrix (codename Uplink) is a chat app that integrates with the matrix.org network and the MIT ecosystem (i.e. automatic creation of accounts based on kerbs and integration with Canvas classes and mailing lists), allowing MIT students to create group chats or workspaces for their classes or orgs without needing to resort to proprietary/insecure third-party apps like Facebook Messenger, iMessage, Discord, etc.  The goal is to provide this server and to give the MIT community a more cohesive and straightforward messaging experience.  Note that the roles below aren't mutually exclusive or the only ways you could join and help, and are instead meant to be guidelines on how you can help. If you're interested in helping, but you're not sure how, or if you think the prereqs look scary but you still want to help, feel free to shoot an email! Everyone is welcome to join!
 * [SIPB Documentation Project](https://sipb.mit.edu/doc/project/)
 	* The SIPB Documentation Project is a project to document in written form the collective knowledge that SIPB members take for granted or use in maintaining services and projects that is not otherwise written down anywhere.
 * [SIPB Hardware Operations](https://hwops.mit.edu)
@@ -425,8 +428,6 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 	* SIPB Project Database is focused on supporting the process of creating and developing projects within SIPB. We want to make it easier for people to join in SIPB projects and for project maintainers to more easily train new people and advertise their projects to the community.   Currently we're responsible for the development of the SIPB project listing website (which you see here), and are looking at expanding our scope to things like: hosting regular project showcases, creating informational workshops about SIPB services, and launching initiatives for supporting onboarding of new members.
 * [SIPB Website](http://sipb.mit.edu)
 	* Keeping the SIPB website nice-looking and up-to-date
-* Uplink
-	* Uplink will be a chat app that integrates with the matrix.org network and the MIT ecosystem (i.e. automatic creation of accounts based on kerbs and integration with Canvas classes and mailing lists), allowing MIT students to create group chats or workspaces for their classes or orgs without needing to resort to proprietary/insecure third-party apps like Facebook Messenger, iMessage, Discord, etc.  The goal is to provide this server and to give the MIT community a more cohesive and straightforward messaging experience.  Note that the roles below aren't mutually exclusive or the only ways you could join and help, and are instead meant to be guidelines on how you can help. If you're interested in helping, but you're not sure how, or if you think the prereqs look scary but you still want to help, feel free to shoot an email! Everyone is welcome to join!
 
 
 ### Miscellaneous Services
@@ -438,6 +439,8 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 
 ## Miscellaneous Perks and Services
 
+* [Handshake](https://capd.mit.edu/resources/handshake/)
+	* Features job and internship postings targeted to MIT students.
 * [OpenCourseWare](https://ocw.mit.edu/)
 	* A free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum. 
 * [Student T-Pass Program](https://web.mit.edu/facilities/transportation/tpass/students.html)
@@ -445,3 +448,23 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [Student Discounts on Lenovo, Apple, Dell Computers](http://kb.mit.edu/confluence/x/6ylhCQ)
 * [The Complete Works of William Shakespeare](http://shakespeare.mit.edu/index.html)
 	* The Web's first edition of the Complete Works of William Shakespeare. Doesn't work on Firefox.
+* [MIT Libraries: News, Newspapers, and Current Events](https://libguides.mit.edu/c.php?g=175853&p=1158990)
+	* Free access to current and historical news, including:
+		* [Financial Times](https://libguides.mit.edu/news/ft)
+		* [The New York Times](https://libguides.mit.edu/news/NYT)
+		* [The Wall Street Journal](https://libguides.mit.edu/news/wsj)
+		* [Pressreader](https://libguides.mit.edu/news/pressreader)
+		* [Global Newsstream](https://libguides.mit.edu/news/usnews)
+			* Boston Globe
+			* Chicago Tribune
+			* USA Today
+			* Los Angeles Times
+			* Washington Post
+* [Reuse at MIT](https://workinggreen.mit.edu/working-green/reuse-mit)
+	* [a group email list](http://mailman.mit.edu/mailman/listinfo/reuse) for exchanging free and for-sale items located at MIT or within the greater Boston area
+	* Extra food
+	* > What to do with leftovers from a meeting or event? There are two email addresses you can post to: freefood@mit.edu and vultures@mit.edu. Send an email to either or both lists when there is food leftover. In your email indicate whether people should bring their own container to carry the food away.
+	* [MIT Equipment Exchange](http://vpf.mit.edu/site/property/resources): holds surplus lab, computer, and office furniture for reuse within the Institute
+	* [MIT Student Furniture Exchange](http://web.mit.edu/womensleague/fx/): sells used furniture at bargain prices
+	* [Swapfest](http://web.mit.edu/w1mx/www/swapfest.shtml): the third Sunday of each month, April through October. Buy, sell, and swap amateur radio, electronic, and computer equipment.
+* [Discounted Arts Opportunities](https://arts.mit.edu/camit/arts-access/)
