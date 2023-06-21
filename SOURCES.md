@@ -10,3 +10,4 @@
 * https://web.mit.edu/facilities/transportation/tpass/students.html
 * http://shakespeare.mit.edu/index.html
 * https://ocw.mit.edu/
+* http://learning.oreilly.com/ (Thanks, Ethan Suresh!)

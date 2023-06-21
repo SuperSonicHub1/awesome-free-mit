@@ -29,3 +29,5 @@
 	* [MIT Student Furniture Exchange](http://web.mit.edu/womensleague/fx/): sells used furniture at bargain prices
 	* [Swapfest](http://web.mit.edu/w1mx/www/swapfest.shtml): the third Sunday of each month, April through October. Buy, sell, and swap amateur radio, electronic, and computer equipment.
 * [Discounted Arts Opportunities](https://arts.mit.edu/camit/arts-access/)
+* [O’Reilly Learning Platform](http://learning.oreilly.com/)
+	* Sign in with your MIT email address to gain acess to decades worth of technical books and video.
