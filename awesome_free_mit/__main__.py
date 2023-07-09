@@ -2,6 +2,7 @@ from pathlib import Path
 from requests import Session 
 from .ist import InformationSystemsTechnology
 from .sipb import StudentInformationProcessingBoard
+from .libraries import MITLibraries
 
 parent = Path(__file__).parent
 
@@ -12,6 +13,7 @@ with Session() as session:
 				(parent / "prelude.md").read_text(),
 				InformationSystemsTechnology(session).markdown(),
 				StudentInformationProcessingBoard(session).markdown(),
+				MITLibraries(session).markdown(),
 				(parent / "misc.md").read_text(),
 			])
 		)

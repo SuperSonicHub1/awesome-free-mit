@@ -9,18 +9,6 @@
 * [Student Discounts on Lenovo, Apple, Dell Computers](http://kb.mit.edu/confluence/x/6ylhCQ)
 * [The Complete Works of William Shakespeare](http://shakespeare.mit.edu/index.html)
 	* The Web's first edition of the Complete Works of William Shakespeare. Doesn't work on Firefox.
-* [MIT Libraries: News, Newspapers, and Current Events](https://libguides.mit.edu/c.php?g=175853&p=1158990)
-	* Free access to current and historical news, including:
-		* [Financial Times](https://libguides.mit.edu/news/ft)
-		* [The New York Times](https://libguides.mit.edu/news/NYT)
-		* [The Wall Street Journal](https://libguides.mit.edu/news/wsj)
-		* [Pressreader](https://libguides.mit.edu/news/pressreader)
-		* [Global Newsstream](https://libguides.mit.edu/news/usnews)
-			* Boston Globe
-			* Chicago Tribune
-			* USA Today
-			* Los Angeles Times
-			* Washington Post
 * [Reuse at MIT](https://workinggreen.mit.edu/working-green/reuse-mit)
 	* [a group email list](http://mailman.mit.edu/mailman/listinfo/reuse) for exchanging free and for-sale items located at MIT or within the greater Boston area
 	* Extra food
@@ -29,5 +17,3 @@
 	* [MIT Student Furniture Exchange](http://web.mit.edu/womensleague/fx/): sells used furniture at bargain prices
 	* [Swapfest](http://web.mit.edu/w1mx/www/swapfest.shtml): the third Sunday of each month, April through October. Buy, sell, and swap amateur radio, electronic, and computer equipment.
 * [Discounted Arts Opportunities](https://arts.mit.edu/camit/arts-access/)
-* [O’Reilly Learning Platform](http://learning.oreilly.com/)
-	* Sign in with your MIT email address to gain acess to decades worth of technical books and video.
