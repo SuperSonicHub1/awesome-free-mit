@@ -196,7 +196,6 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [Microsoft Office](https://ist.mit.edu/microsoft/office)
 * [Office 365 ProPlus](https://ist.mit.edu/microsoft/office365-proplus)
 * [Panopto Enterprise](https://ist.mit.edu/panopto/enterprise)
-* [Prezi Presentation Tool (Pilot)](https://ist.mit.edu/prezi/presentation-tool)
 * [Stata Prof+ Plan - formerly Stata GradPlan](https://ist.mit.edu/stata/prof-plan)
 
 #### [Engineering and Science](https://ist.mit.edu/software-hardware?type=649)
@@ -248,7 +247,6 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 #### [Operating Systems](https://ist.mit.edu/software-hardware?type=652)
 
 * [macOS Ventura (13)](https://ist.mit.edu/apple/macos13)
-* [macOS Monterey (12)](https://ist.mit.edu/apple/macos12)
 * [Windows 10 Enterprise](https://ist.mit.edu/microsoft/windows10)
 * [Windows 11 Enterprise](https://ist.mit.edu/microsoft/windows11)
 * [Windows 11: Virtual Machine](https://ist.mit.edu/microsoft/windows-11-vm)
@@ -268,7 +266,7 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [Google Workspace for Education (formerly G Suite)](https://ist.mit.edu/google/workspace)
 * [LabArchives](https://ist.mit.edu/labarchives/eln)
 * [Microsoft Office](https://ist.mit.edu/microsoft/office)
-* [Microsoft Project Professional](https://ist.mit.edu/microsoft/project)
+* [Microsoft Project](https://ist.mit.edu/microsoft/project)
 * [Microsoft Project Server](https://ist.mit.edu/microsoft/project-server)
 * [Microsoft Visio](https://ist.mit.edu/microsoft/visio)
 * [Office 365 ProPlus](https://ist.mit.edu/microsoft/office365-proplus)
@@ -276,12 +274,11 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [MIT Mobile](https://ist.mit.edu/mit-apps/mit-mobile)
 * [Tim Tickets App](https://ist.mit.edu/mit-apps/tim-tickets)
 * [Poll Everywhere](https://ist.mit.edu/poll-everywhere/survey)
-* [Prezi Presentation Tool (Pilot)](https://ist.mit.edu/prezi/presentation-tool)
 * [Qualtrics Survey Platform](https://ist.mit.edu/qualtrics/survey)
 * [Quickbase Platform](https://ist.mit.edu/quickbase/platform)
 * [Salesforce Licensing](https://ist.mit.edu/salesforce/licensing)
-* [SAPgui 7.40 Rev 2 for Mac](https://ist.mit.edu/sapgui/mac-740)
-* [SAPgui 7.40 Rev 3 for Windows](https://ist.mit.edu/sapgui/win-740)
+* [SAPgui 7.70 Patch 4 for Windows](https://ist.mit.edu/sapgui/win)
+* [SAPgui 7.80 Rev 1 for Mac](https://ist.mit.edu/sapgui/mac)
 * [Slack Enterprise Grid](https://ist.mit.edu/slack/enterprise-grid)
 * [think-cell](https://ist.mit.edu/think-cell/license)
 
@@ -324,6 +321,7 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [Microsoft Project Server](https://ist.mit.edu/microsoft/project-server)
 * [Microsoft SQL Server](https://ist.mit.edu/microsoft/sql-server)
 * [Athena Software](https://ist.mit.edu/mit-apps/athena)
+* [CertAid](https://ist.mit.edu/mit-apps/certaid)
 * [Kerberos Extras for Mac](https://ist.mit.edu/mit-apps/kerberos-mac)
 * [Kerberos for Windows (KfW)](https://ist.mit.edu/mit-apps/kerberos-win)
 * [Pharos Print](https://ist.mit.edu/pharos/print)
@@ -339,7 +337,6 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [Adobe Creative Cloud for Students, Faculty, and Staff](https://ist.mit.edu/adobe/creative-cloud)
 * [Apple iOS Apps: Volume Purchase Program](https://ist.mit.edu/apple/vpp)
 * [macOS Ventura (13)](https://ist.mit.edu/apple/macos13)
-* [macOS Monterey (12)](https://ist.mit.edu/apple/macos12)
 * [Autodesk Nastran 2015](https://ist.mit.edu/autodesk/nastran-2015)
 * [Autodesk Suite](https://ist.mit.edu/autodesk/suite)
 * [Cambridge Structural Database](https://ist.mit.edu/ccdc/csd)
@@ -375,7 +372,7 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [MATLAB](https://ist.mit.edu/mathworks/matlab)
 * [Mnova NMR](https://ist.mit.edu/mestrelab/mnova)
 * [Microsoft Office](https://ist.mit.edu/microsoft/office)
-* [Microsoft Project Professional](https://ist.mit.edu/microsoft/project)
+* [Microsoft Project](https://ist.mit.edu/microsoft/project)
 * [Microsoft Project Server](https://ist.mit.edu/microsoft/project-server)
 * [Microsoft SQL Server](https://ist.mit.edu/microsoft/sql-server)
 * [Microsoft Visio](https://ist.mit.edu/microsoft/visio)
@@ -401,13 +398,12 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 * [ChemOffice+ Cloud and ChemDraw](https://ist.mit.edu/perkinelmer/chemoffice)
 * [Pharos Print](https://ist.mit.edu/pharos/print)
 * [Poll Everywhere](https://ist.mit.edu/poll-everywhere/survey)
-* [Prezi Presentation Tool (Pilot)](https://ist.mit.edu/prezi/presentation-tool)
 * [Qualtrics Survey Platform](https://ist.mit.edu/qualtrics/survey)
 * [Quickbase Platform](https://ist.mit.edu/quickbase/platform)
 * [Red Hat Enterprise](https://ist.mit.edu/redhat/linux)
 * [Salesforce Licensing](https://ist.mit.edu/salesforce/licensing)
-* [SAPgui 7.40 Rev 2 for Mac](https://ist.mit.edu/sapgui/mac-740)
-* [SAPgui 7.40 Rev 3 for Windows](https://ist.mit.edu/sapgui/win-740)
+* [SAPgui 7.70 Patch 4 for Windows](https://ist.mit.edu/sapgui/win)
+* [SAPgui 7.80 Rev 1 for Mac](https://ist.mit.edu/sapgui/mac)
 * [SAS JMP Licensing](https://ist.mit.edu/sas/jmp)
 * [PyMOL for All Platforms](https://ist.mit.edu/schrodinger/pymol)
 * [Slack Enterprise Grid](https://ist.mit.edu/slack/enterprise-grid)
@@ -439,26 +435,26 @@ A collection of free stuff you can get at the Massachusetts Institute of Technol
 	* SIPB organizes dozens of IAP classes each year on technical topics both serious and fun. During the fall term SIPB also offers a series of Cluedump talks, with a different topic each week. Add yourself to cluedump-announce@mit.edu if you're interested. We're also looking for MIT students to help keep them running smoothly.
 * [Courseroad](http://courseroad.mit.edu)
 	* Maintaining and adding features to the courseroad.mit.edu website, a degree planning tool for MIT courses. Our backend is shared with Fireroad (fireroad.mit.edu) and our frontend is written in VueJS.
+* [doorpi](https://github.com/sipb/doorpi2)
+	* Currently offline due to W20 renovation, doorpi senses when the SIPB Office door is closed & open and displays this information in at http://doorpi.mit.edu.
 * [DormDigest](http://mailto:sipb-dormdigest@mit.edu)
 	* (Formerly dormsp.am). Our project will take emails from dormspam, extract the event's time, date, title, and location, and automatically add it to a website that MIT students can peruse through! We expect to have it operating by Summer 2023 and ready for Fall 2023.
 * [Hydrant](https://hydrant.mit.edu/)
 	* Hydrant is a class planner for MIT students.
 * [Mastodon](https://mastodon.mit.edu)
 	* https://mastodon.mit.edu is an instance of the Mastodon federated social networking platform, a part of a Twitter-like communications network of independently-run servers. Anyone on any individual server can communicate with the global ecosystem of federated servers, creating a decentralized social network where no one person or corporation has control of everyoneâs data.
-* MIT Matrix
-	* MIT Matrix (codename Uplink) is a chat app that integrates with the matrix.org network and the MIT ecosystem (i.e. automatic creation of accounts based on kerbs and integration with Canvas classes and mailing lists), allowing MIT students to create group chats or workspaces for their classes or orgs without needing to resort to proprietary/insecure third-party apps like Facebook Messenger, iMessage, Discord, etc.  The goal is to provide this server and to give the MIT community a more cohesive and straightforward messaging experience.  Note that the roles below aren't mutually exclusive or the only ways you could join and help, and are instead meant to be guidelines on how you can help. If you're interested in helping, but you're not sure how, or if you think the prereqs look scary but you still want to help, feel free to shoot an email! Everyone is welcome to join!
+* [MIT Matrix](https://matrix.mit.edu)
+	* SIPB Matrix (codename Uplink) is SIPB's effort to bring the Matrix (matrix.org) network to MIT, providing not just another hosted homeserver, but a practical way to communicate that works with the school's existing social dynamics and ecosystem (class group chats, Moira lists, etc), aiming to reduce the usage of proprietary alternatives such as Facebook Messenger, and exclusionary and proprietary alternatives such as iMessage.
 * [SIPB Documentation Project](https://sipb.mit.edu/doc/project/)
 	* The SIPB Documentation Project is a project to document in written form the collective knowledge that SIPB members take for granted or use in maintaining services and projects that is not otherwise written down anywhere.
-* [SIPB Hardware Operations](https://hwops.mit.edu)
-	* The HWOPS team maintains the physical server rooms for SIPB: maintaining and upgrading our physical infrastructure, coordinating with IS&T and Facilities, and communicating with other SIPB projects that have or need physical computing resources. We are responsible for the operation of the machine room in W20-575A, as well as for some operations of SIPB's servers in W91. We provide physical server space, server hardware, and server support services to other SIPB projects.
-* [SIPB Hyades](https://github.com/sipb/homeworld)
-	* The SIPB Hyades project is SIPB's next-generation computing infrastructure service, designed to eventually replace Scripts and XVM with a self-configuring Kubernetes cluster deployed on bare metal servers. Hyades is a cluster computing management system (SIPB's internal AWS). Whether a user wants to host their website, run code for a class, or work on a side project, our service will give them a container to fit these tasks. Hyades uses exciting open-source tools like Kubernetes, etcd, Bazel, Envoy, and Ceph.
 * [SIPB Mattermost](https://mattermost.xvm.mit.edu)
 	* SIPB's Mattermost instance for communication. Mattermost is an open source, private cloud Slack alternative hosted on XVM. By the way, a lot of SIPB communication happens on Mattermost -- would recommend joining if you haven't already!
 * [SIPB Mirrors](https://mirrors.mit.edu)
 	* SIPB is a download mirror for various open source software projects. In particular, we mirror the package repositories for popular Linux distributions such as CentOS, Debian, Fedora, and Ubuntu, providing a fast local copy for the MIT community. We also serve as the upstream for local mirrors at other universities and research labs.
 * [SIPB Project Database](https://sipb-projectdb.scripts.mit.edu)
 	* SIPB Project Database is focused on supporting the process of creating and developing projects within SIPB. We want to make it easier for people to join in SIPB projects and for project maintainers to more easily train new people and advertise their projects to the community.   Currently we're responsible for the development of the SIPB project listing website (which you see here), and are looking at expanding our scope to things like: hosting regular project showcases, creating informational workshops about SIPB services, and launching initiatives for supporting onboarding of new members.
+* [SIPB Scripts](https://scripts.mit.edu/)
+	* Scripts is SIPB's most used service, which hosts thousands of websites for the MIT community. scripts.mit.edu is a Linux/Apache web hosting platform for the MIT community. Any Athena user or group locker can host dynamic web applications written in PHP, Perl, Python, Ruby, or any other language, or automatically install blog, wiki, and other software via the quick-start autoinstallers.
 * [SIPB Website](http://sipb.mit.edu)
 	* Keeping the SIPB website nice-looking and up-to-date
 
@@ -1270,7 +1266,7 @@ Fiction, poetry, manuscripts, archival content, and interviews from 1900 to pres
 	* Coverage: 1849 - 1992
   Historical file of the Chicago Tribune. Includes deep historical coverage but current years are excluded.
 * [China and the Modern World: Missionary, Sinology, and Literary Periodicals, 1817-1949](https://libguides.mit.edu/chinamissionaryperiodicals)
-	* China and the Modern World: Missionary, Sinology, and Literary Periodicals, 1817–1949 is a collection of seventeen English-language periodicals published in or about China during a period of over 130 years extending from 1817 until 1949, when the People’s Republic of China was founded. This corresponds to the periods of the late Qing Dynasty and the Republican Era (1911-1949), when China experienced radical and often traumatic transformations from an inward-looking imperial dynasty into a globally engaged republic with modern approaches to politics, literature, education, public morality, and intellectual life.
+	* China and the Modern World: Missionary, Sinology, and Literary Periodicals, 1817–1949 is a collection of 17 English-language periodicals published in or about China during a period of over 130 years extending from 1817 until 1949, when the People’s Republic of China was founded. This corresponds to the periods of the late Qing Dynasty and the Republican Era (1911-1949), when China experienced radical and often traumatic transformations from an inward-looking imperial dynasty into a globally engaged republic with modern approaches to politics, literature, education, public morality, and intellectual life.
 * [Chinese Civil War and U.S.-China Relations: Records of the U.S. State Department’s Office of Chinese Affairs, 1945-1955](https://libguides.mit.edu/USChinaRelations)
 	* Declassified by the State Department, "Records of the Office of Chinese Affairs, 1945-1955" provide valuable insight into domestic issues in Communist and Nationalist China, U.S. containment policy as it was extended to Asia, and Sino-American relations during the postwar period. This collection comprises all 41 reels of the former Scholarly Resources microfilm product entitled Records of the Office of Chinese Affairs, 1945-1955.
 * [Chinese Film and Newsreel Scripts from the Cultural Revolution Online](https://libguides.mit.edu/chinese-filmscripts)
@@ -1409,10 +1405,10 @@ Surveys the history, cultures, geography and religions of India from ancient tim
 	* Streaming video package from the Institute of Art and Ideas that includes thousands of video debates, articles and courses, all featuring world-leading thinkers across philosophy, science, politics, and the arts.
 * [Independent Voices](https://libguides.mit.edu/voices)
 	* Independent Voices provides open access to nearly 1,000 journals, newsletters, zines, and newspapers from the alternative press. The collection represents the powerful voices of feminists, dissident GIs, campus radicals, Native Americans, anti-war activists, Black Power advocates, Latinos, gays, lesbians and more from the period 1950 to 2016, with a special focus on  the transformative decades of the 60s, 70s and 80s.
-* [Index Islamicus](https://libguides.mit.edu/IIslam)
-	* Format: CD-ROM  Coverage: 1906 - 1996  Indexes works on the Muslim world from journals, books and reviews in English and European languages.
 * [Index Islamicus](https://libguides.mit.edu/ii)
 	* Coverage: 1906 - 1996  Indexes works on the Muslim world from journals, books and reviews in English and European languages.
+* [Index Islamicus](https://libguides.mit.edu/IIslam)
+	* Format: CD-ROM  Coverage: 1906 - 1996  Indexes works on the Muslim world from journals, books and reviews in English and European languages.
 * [International Encyclopedia of Dance](https://libguides.mit.edu/intencdance)
 	* Covers the full spectrum of dance--theatrical, ritual, dance-drama, folk, traditional, ethnic, and social dance. Cultural and national overviews are accompanied by entries on dance forms, music and costumes, performances, and biographies of dancers and choreographers.
 * [International Encyclopedia of Linguistics](https://libguides.mit.edu/ieling)
@@ -1816,7 +1812,6 @@ Index to conference proceedings in social sciences and humanities.  Includes con
 	* All journals from American Chemical Society (ACS) Publications  Access: VPN users: You must use the friendly URL above or other means to authenticate besides VPN.
 * [ACS Symposium Series](https://libguides.mit.edu/acssymposium)
 	* Contains peer-reviewed edited books developed from the ACS technical divisions' symposia covering a broad range of topics including agricultural and food chemistry, cellulose and renewable materials, chemical education, organic chemistry, polymer chemistry, materials, and many others. Coverage: 1974 - Present Access: VPN users: You must use the friendly URL above or other means to authenticate besides VPN.
-* [ACSESS DL - Alliance of Crop, Soil, and Environmental Science Societies Digital Libraries](https://libguides.mit.edu/acsess)
 * [ADS (NASA Astrophysics Data System)](https://libguides.mit.edu/ads)
 	* Indexes major astronomy and astrophysics journals; includes abstracts for most entries and full text scans of tens of thousands of articles.
 * [Advances in Atomic, Molecular, and Optical Physics](https://libguides.mit.edu/aamop)
@@ -2596,10 +2591,10 @@ News articles and business information from over 8000 sources.
 	* Data from 1979 on classification of bank assets and liabilities, income statement and balance sheet and structure of the financial system for OECD countries.
 * [OECD Economic Outlook Database](https://libguides.mit.edu/econoutlook)
 	* Analyzes the major trends that shape short-term economic prospects. Provides in-depth coverage of the economic policy measures in each member country.
-* [OECD Education Statistics](https://libguides.mit.edu/oecd-educ)
-	* Comparative education statistics and indicators from OECD and non-OECD countries.  Includes  investments, access to, and completion of education.
 * [OECD Education Statistics](https://libguides.mit.edu/oecdedu)
 	* Covers outputs, policies, investments, structural characteristics, and economic and social outcomes of education.
+* [OECD Education Statistics](https://libguides.mit.edu/oecd-educ)
+	* Comparative education statistics and indicators from OECD and non-OECD countries.  Includes  investments, access to, and completion of education.
 * [OECD Employment and Labour Market Statistics](https://libguides.mit.edu/oecdlfs)
 	* Annual labour market statistics and indicators from 1960 broken down by various worker characteristics for OECD countries and non-member economies.
 * [OECD Factbook Statistics](https://libguides.mit.edu/oecdfactbook)
@@ -2845,3 +2840,5 @@ Streaming films of current leading British theater productions and Broadway play
 	* [MIT Student Furniture Exchange](http://web.mit.edu/womensleague/fx/): sells used furniture at bargain prices
 	* [Swapfest](http://web.mit.edu/w1mx/www/swapfest.shtml): the third Sunday of each month, April through October. Buy, sell, and swap amateur radio, electronic, and computer equipment.
 * [Discounted Arts Opportunities](https://arts.mit.edu/camit/arts-access/)
+* [Altium](https://www.altium.com/education/student-licenses): gain a free license to this 
+industrial PCB design suite by signing up with your MIT email
